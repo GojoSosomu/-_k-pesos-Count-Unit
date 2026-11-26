@@ -2,7 +2,7 @@
 
 **A counting notation for peso cash, built around counting in fives.**
 
-> Created by **YOUR NAME**, 2026. Reuse is welcome, **with credit**.
+> Created by **Chemuel Jhon L. Dela Peña**, 2026. Reuse is welcome, **with credit**.
 > Spec: [CC BY 4.0](LICENSE-docs.md) · Code: [MIT](LICENSE)
 
 *Plain-text fallback: where ₱ₖ can't be typed, write `P5`, `P10`, `P1000` (for example `267 P5 3`).*
