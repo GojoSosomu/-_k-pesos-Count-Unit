@@ -141,7 +141,8 @@ This notation combines established ideas: unit conversion, weighted sums, ration
 
 ## License and credit
 
-- Specification text: [CC BY 4.0](LICENSE-docs.md): reuse and adapt freely, but credit **YOUR NAME**.
+- Specification text: [CC BY 4.0](LICENSE-docs.md): reuse and adapt freely, but credit **Chemuel Jhon L. Dela Peña
+- **.
 - Code: [MIT](LICENSE): keep the copyright notice in copies.
 
 Suggested credit: *"The ₱ₖ Count Unit System" by YOUR NAME, 2026.*
